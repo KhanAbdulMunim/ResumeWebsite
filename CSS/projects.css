@@ -1,0 +1,27 @@
+body {
+  background-color: #b4d2e7;
+  /* text-align: center; */
+  align-content: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: black;
+}
+
+p {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.project-tab {
+  padding: 20px;
+  background-color: #f8f8f8;
+  width: 50%;
+  /* margin: 0 auto; */
+  border-radius: 10px;
+  margin: 10px;
+  width: 25%;
+  float: left;
+}
